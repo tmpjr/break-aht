@@ -9,7 +9,7 @@ A simple BreakOut clone written using LibGDX (Java) and Box2d. It can be deploye
 * Improve and consolidate the level selection and screen management
 * Fix ball movement to prevent flat/horizontal movement 
 
-As of now this game works and serves as a good base to learn Box2D, sprites and moving Box2D objects, and a simple Scene2D menu system.
+As of now this game works and serves as a good base to learn Box2D, sprites and moving Box2D objects, and a simple Scene2D menu system. For now, I think I'm going to begin a new project. This game was meant to teach myself libGDX, Box2D, Scene2D and refresh my Java knowledge. I will now focus on building a game with the intent of releeasing it to at least the Google Play store.
 
 #### Credits/Resources
 
